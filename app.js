@@ -906,6 +906,50 @@ const SINONIMOS = {
     "obrigações": "contratos",
     "inadimplemento": "contratos",
     "rescisão contratual": "contratos",
+    
+    // ==========================================
+    // TEMAS ADICIONAIS
+    // ==========================================
+    
+    // Direitos da mulher
+    "mulher": "direitos da mulher",
+    "mulheres": "direitos da mulher",
+    "direitos da mulher": "direitos da mulher",
+    "proteção da mulher": "direitos da mulher",
+    "protecao da mulher": "direitos da mulher",
+    "vítima de violência": "violência",
+    "vitima de violencia": "violência",
+    "vítimas de violência": "violência",
+    "vitimas de violencia": "violência",
+    
+    // Armas (reforço para pegar variações)
+    "arma": "armas de fogo",
+    "armas": "armas de fogo",
+    "armamento": "armas de fogo",
+    "munição": "armas de fogo",
+    "municao": "armas de fogo",
+    "calibre": "armas de fogo",
+    "cac": "armas de fogo",
+    "caçador": "armas de fogo",
+    "atirador": "armas de fogo",
+    "colecionador": "armas de fogo",
+    
+    // Segurança pessoal
+    "legítima defesa": "legítima defesa",
+    "legitima defesa": "legítima defesa",
+    "autodefesa": "legítima defesa",
+    "defesa pessoal": "legítima defesa",
+    
+    // Violência geral
+    "violência": "violência",
+    "violencia": "violência",
+    "agressão": "violência",
+    "agressao": "violência",
+    "agressor": "violência",
+    "vítima": "vítima",
+    "vitima": "vítima",
+    "vítimas": "vítima",
+    "vitimas": "vítima",
 };
 
 // Padrões de impacto expandidos
